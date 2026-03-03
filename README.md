@@ -1,39 +1,26 @@
-# 📄 FMP Full Publication Package
+# 🌐 FMP FULL PUBLICATION PACKAGE
+[![DOI](https://zenodo.org/badge/DOI/10.6084/m9.figshare.30648455.svg)](https://doi.org/10.6084/m9.figshare.30648455)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0000-6394-4912-green)](https://orcid.org/0009-0000-6394-4912)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Live Site](secret-uzbek.github.io/FMP-Full-Publication-Package)](https://secret-uzbek.github.io/FMP-Full-Publication-Package)
 
-[![Live](https://img.shields.io/badge/Live-Publication%20Package-blue)](https://secret-uzbek.github.io/FMP-Full-Publication-Package)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--6394--4912-green)](https://orcid.org/0009-0000-6394-4912)
+> **LaTeX sources for peer-review papers: Theoretical and Applied FMP.**
 
-> Complete LaTeX publication package for the Fractal Metascience Paradigm — two peer-review ready papers with full bibliography.
+## 🔬 About
+Part of the **Fractal Metascience Paradigm (FMP)** ecosystem developed by Abdurashid Abdukarimov.
+This repository implements principles of **NULLO** (Zero-Point Ontology), **PLT** (Post-Lingua Trace), and **UCOM** (Universal Communication).
 
-## 📋 Papers
-
-### Paper 1: Theoretical FMP
-**File:** `fmp_theoretical.tex`  
-**Focus:** Core epistemological framework — NULLO, PLT, UCOM, EUO  
-**Target:** *Foundations of Science* (Springer, ISSN 1233-1821)
-
-### Paper 2: Applied FMP
-**File:** `fmp_applied.tex`  
-**Focus:** Practical implementations — Terra Codex, UST, Research Pipeline  
-**Target:** *Journal of Knowledge Organization* (Ergon)
-
-## 📚 Bibliography
-
-- `fmp_theoretical.bib` — 40+ references (Kuhn, Feyerabend, Mandelbrot, Wolfram...)
-- `fmp_applied.bib` — Applied domain references
-
-## 🏷️ Keywords
-
-fractal metascience, epistemology, NULLO, post-lingua trace, universal communication, emergent organization, knowledge systems, philosophy of science
-
-## 📊 Status
-
-- [x] LaTeX compilation tested
-- [x] Bibliography complete
-- [x] ORCID linked
-- [ ] Peer review submission (in progress)
+## 📚 Citation
+```bibtex
+@misc{abdukarimov2026fmpfullpublicationpackage,
+  author = {Abdurashid Abdukarimov},
+  title = {FMP-Full-Publication-Package},
+  year = {2026},
+  doi = {10.6084/m9.figshare.30648455},
+  url = {https://github.com/Secret-Uzbek/FMP-Full-Publication-Package}
+}
+```
 
 ## 👤 Author
-
-**Abdurashid Abdukarimov** | Fractal Metascience Foundation  
-🔗 [ORCID](https://orcid.org/0009-0000-6394-4912) · [FMP Monograph](https://github.com/Secret-Uzbek/FMP-monograph)
+**Abdurashid Abdukarimov** | Fractal Metascience Foundation, Tashkent
+🔗 [ORCID](https://orcid.org/0009-0000-6394-4912) · [FMP Central](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
